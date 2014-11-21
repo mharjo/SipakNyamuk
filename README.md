@@ -1,6 +1,7 @@
 SipakNyamuk
 ===========
 
+<<<<<<< HEAD
 Contoh Simple Sistem Pakar Diagnosa Penyakit yang disebabkan oleh Nyamuk Menggunakan C#/C++.
 Contoh sederhana penerapan sistem pakar dalam bidang kedokteran, yaitu diagnosis penyakit yang disebabkan oleh nyamuk berdasarkan gejala-gejala yang muncul. Adapun Penyakit yang disebabkan oleh Nyamuk antara lain:
 1.Demam Berdarah Denque
@@ -46,3 +47,9 @@ Intinya Program ini hanya Membandinkan Inputan Jawaban User yang dimasukkan ke d
 
 
 
+=======
+Contoh Simple Sistem Pakar Menggunakan C#/C++.
+
+
+Jika masih ada bug mohon dimaklumi.
+>>>>>>> origin/master
