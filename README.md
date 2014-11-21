@@ -1,7 +1,7 @@
 SipakNyamuk
 ===========
 
-Contoh Simple Sistem Pakar Diagnosa Penyakit yang disebabkan oleh Nyamuk Menggunakan C#/C++.
+Contoh Simple Sistem Pakar Diagnosa Penyakit yang disebabkan oleh Nyamuk Menggunakan C#/C++.<br>
 Contoh sederhana penerapan sistem pakar dalam bidang kedokteran, yaitu diagnosis penyakit yang disebabkan oleh nyamuk berdasarkan gejala-gejala yang muncul. Adapun Penyakit yang disebabkan oleh Nyamuk antara lain:
 
 1.Demam Berdarah Denque
@@ -12,27 +12,27 @@ Contoh sederhana penerapan sistem pakar dalam bidang kedokteran, yaitu diagnosis
 
 Untuk dapat melakukan diagnosis dengan benar, terlebih dahulu kita harus mengetahui gejala-gejala dari penyakit tersebut. Beberapa gejala yang mungkin muncul dari ketiga jenis penyakit tersebut adalah sebagai berikut:
 
-1.Demam
-2.Merasa Kedinginan
-3.Tubuh Terasa Sakit
-4.Sakit Kepala
-5.tenggorokan sakit saat menelan
-6.Badan Terasa Lemas dan Lemah
-7.Muncul Bintik-bintik berwarna Merah
-8.panas tubuh tinggi
-9.otot terasa nyeri
-10.nafsu makan menurun
-11.merasa mual-mual
-12.denyut nadi terasa lemah
-13.merasakan ngilu
-14.merasakan persendian membengkak
-15.stamina terasa menurun
-16.nyeri pada setiap persendian
-17.merasakan ingin muntah
-18.penglihatan terganggu bila melihat cahaya
-19.leher dan punggung terasa kaku
-20.sering merasa mengantuk
-21.mudah terangsang
+1. Demam
+2. Merasa Kedinginan
+3. Tubuh Terasa Sakit
+4. Sakit Kepala
+5. tenggorokan sakit saat menelan
+6. Badan Terasa Lemas dan Lemah
+7. Muncul Bintik-bintik berwarna Merah
+8. Panas tubuh tinggi
+9. Otot terasa nyeri
+10. Nafsu makan menurun
+11. Merasa mual-mual
+12. Denyut nadi terasa lemah
+13. Merasakan ngilu
+14. Merasakan persendian membengkak
+15. Stamina terasa menurun
+16. Nyeri pada setiap persendian
+17. Merasakan ingin muntah
+18. Penglihatan terganggu bila melihat cahaya
+19. Leher dan punggung terasa kaku
+20. Sering merasa mengantuk
+21. Mudah terangsang
 
 Dari gejala-gejala tersebut kita dapat mengambil kesimpulan sebagai berikut:
 
